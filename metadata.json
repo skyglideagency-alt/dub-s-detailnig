@@ -1,0 +1,6 @@
+{
+  "name": "Dub's Detail Company",
+  "description": "Premium professional automotive detailing services based in Terre Haute, Indiana. Experience showroom perfection with custom-tailored interior and exterior detailing packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
