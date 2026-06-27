@@ -38,7 +38,7 @@ export default function Footer() {
           <div className="flex items-center gap-2 group">
             <div className="relative flex items-center justify-center w-11 h-11 rounded-xl bg-slate-950/80 shadow-lg shadow-brand-cyan/10 border border-brand-cyan/20 overflow-hidden">
               <img 
-                src="https://lh3.googleusercontent.com/d/1QTWHpTHc31yapbMbOIaZFQAEr8zmOcIP" 
+                src="https://drive.google.com/thumbnail?id=1QTWHpTHc31yapbMbOIaZFQAEr8zmOcIP&sz=w600" 
                 alt="Dub's Detail Logo" 
                 className="w-full h-full object-contain p-0.5" 
                 referrerPolicy="no-referrer"

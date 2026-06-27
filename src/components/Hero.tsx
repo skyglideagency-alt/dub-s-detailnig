@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { motion } from "motion/react";
 import { CheckCircle2, Calendar, Car, Sparkles, PhoneCall, Crown, ShieldCheck, Mail, User } from "lucide-react";
 import { BookingSubmission } from "../types";
+import heroBg from "../assets/images/hero_detailing_1782496737594.jpg";
 
 export default function Hero() {
   const [formData, setFormData] = useState<Partial<BookingSubmission>>({
@@ -67,7 +68,7 @@ export default function Hero() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/src/assets/images/hero_detailing_1782496737594.jpg" 
+          src={heroBg} 
           alt="Premium Detailing Workshop" 
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"

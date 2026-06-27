@@ -9,7 +9,7 @@ export default function Portfolio() {
       id: "coating-drive-1",
       title: "Bespoke Ceramic Shielding",
       category: "Ceramic Coating",
-      imageUrl: "https://lh3.googleusercontent.com/d/18QY4KQ1XqOIxFMKvSpy8FY4abuSKpNub",
+      imageUrl: "https://drive.google.com/thumbnail?id=18QY4KQ1XqOIxFMKvSpy8FY4abuSKpNub&sz=w1200",
       description: "A professional grade hydrophobic nano-ceramic protective seal. Yields a highly repellent crystalline surface with supreme light refraction.",
       beforeAfter: {
         before: "Flat gloss index, severe water spots, and paint oxidation.",
@@ -20,7 +20,7 @@ export default function Portfolio() {
       id: "interior-drive-1",
       title: "Elite Cabin Sanctuary",
       category: "Interior Restoration",
-      imageUrl: "https://lh3.googleusercontent.com/d/1YPjlFSwoPPZ7Ob6mD5P7L5xydxxqwRGq",
+      imageUrl: "https://drive.google.com/thumbnail?id=1YPjlFSwoPPZ7Ob6mD5P7L5xydxxqwRGq&sz=w1200",
       description: "Therapeutic cabin decontamination, fiber extraction, and custom leather feeding. Restores touchpoints to pristine non-greasy matte tactile perfection.",
       beforeAfter: {
         before: "Ground-in floorboard dirt, glossy steering wheel film, and fabric stiffness.",
@@ -31,7 +31,7 @@ export default function Portfolio() {
       id: "correction-drive-2",
       title: "Precision Surface Refinement",
       category: "Paint Correction",
-      imageUrl: "https://lh3.googleusercontent.com/d/1z9_k9srzIHvyLuV8gti96hwo_apFYvXz",
+      imageUrl: "https://drive.google.com/thumbnail?id=1z9_k9srzIHvyLuV8gti96hwo_apFYvXz&sz=w1200",
       description: "Surgical multi-stage compounding and pad leveling. Eliminates clear coat defects, returning the finish back to factory reflection clarity.",
       beforeAfter: {
         before: "Heavy car wash brush scratches and micro-marring under artificial light.",
